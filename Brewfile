@@ -94,75 +94,75 @@ brew "zsh"
 # Desktop apps to install via Cask
 
 cask "adobe-creative-cloud"
-cask "bettertouchtool"
-cask "betterzip"
-cask "brave-browser"
-cask "caffeine"
-cask "camunda-modeler"
-cask "charles"
-cask "dash"
-cask "datagrip"
-cask "deckset"
+# cask "bettertouchtool"
+# cask "betterzip"
+# cask "brave-browser"
+# cask "caffeine"
+# cask "camunda-modeler"
+# cask "charles"
+# cask "dash"
+# cask "datagrip"
+# cask "deckset"
 cask "docker-edge"
 cask "encryptme"
 cask "firefox"
 cask "font-meslo-for-powerline"
 cask "font-source-code-pro-for-powerline"
 cask "font-montserrat"
-cask "framer-x"
-cask "goland"
-cask "google-chrome-canary"
+# cask "framer-x"
+# cask "goland"
+# cask "google-chrome-canary"
 cask "google-cloud-sdk"
 cask "google-drive-file-stream"
 cask "grammarly"
 cask "handbrake"
 cask "insomnia"
-cask "intellij-idea"
-cask "keybase"
-cask "kindle"
+# cask "intellij-idea"
+# cask "keybase"
+# cask "kindle"
 cask "microsoft-office"
 cask "microsoft-teams"
 cask "miro-formerly-realtimeboard"
-cask "notion"
-cask "phantomjs"
-cask "pycharm"
-cask "quickbooks-online"
-cask "sketch"
-cask "skype"
+# cask "notion"
+# cask "phantomjs"
+# cask "pycharm"
+# cask "quickbooks-online"
+# cask "sketch"
+# cask "skype"
 cask "slack"
-cask "sourcetree"
-cask "spectacle"
-cask "transmit"
-cask "vagrant"
-cask "vip-access"
-cask "viscosity"
+# cask "sourcetree"
+# cask "spectacle"
+# cask "transmit"
+# cask "vagrant"
+# cask "vip-access"
+# cask "viscosity"
 cask "visual-studio-code"
-cask "vmware-fusion"
+# cask "vmware-fusion"
 cask "zoomus"
 
 # Desktop apps to install via Mac App Store
 mas "1Password", id: 443987910
-mas "Disk Expert", id: 488920185
-mas "EasyRes", id: 688211836
-mas "Fantastical 2", id: 975937182
-mas "feedly", id: 865500966
-mas "Harvest", id: 506189836
+# mas "Disk Expert", id: 488920185
+# mas "EasyRes", id: 688211836
+# mas "Fantastical 2", id: 975937182
+# mas "feedly", id: 865500966
+# mas "Harvest", id: 506189836
 mas "Keynote", id: 409183694
 mas "Microsoft Remote Desktop", id: 715768417
-mas "Mindnode 6", id: 1289197285
-mas "Numbers", id: 409203825
-mas "Omnigraffle 7", id: 1142578753
+# mas "Mindnode 6", id: 1289197285
+# mas "Numbers", id: 409203825
+# mas "Omnigraffle 7", id: 1142578753
 mas "Pages", id: 409201541
-mas "Paste", id: 967805235
-mas "Patterns", id: 429449079
-mas "Screenflow", id: 1475796517
+# mas "Paste", id: 967805235
+# mas "Patterns", id: 429449079
+# mas "Screenflow", id: 1475796517
 mas "Skitch", id: 425955336
 mas "Smart JSON Editor", id: 1268962404
-mas "Spark", id: 1176895641
-mas "Textual 7", id: 1262957439
-mas "TickTick", id: 966085870
-mas "Tweetbot", id: 1384080005
-mas "Vimeo", id: 1356686763
+# mas "Spark", id: 1176895641
+# mas "Textual 7", id: 1262957439
+# mas "TickTick", id: 966085870
+# mas "Tweetbot", id: 1384080005
+#mas "Vimeo", id: 1356686763
 mas "Xcode", id: 497799835
 
 # Personal: Cedric
